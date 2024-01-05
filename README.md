@@ -1,6 +1,11 @@
 # DSI---Building-Software
 Assignment for Lesson 1 &amp; 2
 
+Contents:
+Collab Files Folder -- Collab Notebooks from Lesson 1 and 2
+README.md 
+
+Summary of homework:
 Lesson 1 Homework
 • Create a personal GitHub repository for today’s work
 • Commit your Hello World and your GitHub API code
