@@ -2,8 +2,7 @@
 Assignment for Lesson 1 &amp; 2
 
 Contents:
-Collab Files Folder -- Collab Notebooks from Lesson 1 and 2
-README.md 
+Collab Files Folder -- Collab Notebooks from Lesson 1, 2 and README.md 
 
 Summary of homework:
 Lesson 1 Homework
